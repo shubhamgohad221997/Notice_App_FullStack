@@ -1,0 +1,46 @@
+.navbar{
+    border: 1px solid teal;
+    width: 100%;
+    justify-content: space-around;
+  
+    padding: 20px;
+    background-color: teal;
+    display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+  }
+
+  .usernameBox{
+width: 400px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  text-align: center;
+
+}
+.btnLogin{
+    margin-top: 10px;
+
+    color: white;
+    font-weight: 600;
+}
+.mainBox{
+    display: grid;
+}
+.noticeBox{
+    width: 400px;
+    margin: auto;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+margin-top: 50px;
+}
+.notic1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.noticeh4{
+    color: teal;
+}
